@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="0">
+
+  <testsuite name="pageObjects.useradmin"
+    errors="0" failures="0" hostname="" id="" package="pageObjects" skipped="0"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+    <system-err>
+        Error: Error while running &#34;element&#34; command: &#34;Error: Incomplete expect assertion for &#34;expect.element()&#34;. Please consult the docs at https://nightwatchjs.org/api/expect/
+      at processTicksAndRejections (internal/process/task_queues.js:93:5)&#34;
+       at Page.editElement (C:\Users\felip\OneDrive\Desktop\nightwatchproject\tests\pageObjects\hierarchyadmin.js:21:35)
+       at DescribeInstance.&lt;anonymous&gt; (C:\Users\felip\OneDrive\Desktop\nightwatchproject\tests\spec\Test.js:24:29)
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
